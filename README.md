@@ -1,5 +1,5 @@
-# JAVA_MEETING
+# JAVA_STUDY
 
-java 面试题
+java 学习笔记
 
-自己准备的java面试题
+自己学习的java路线图
