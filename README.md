@@ -41,3 +41,10 @@ java 学习笔记
 - 分布式架构
 - 容器
   - docker
+- Linux
+  - 脚本
+    - python
+    - lua
+    - bash
+  - 文件系统
+
