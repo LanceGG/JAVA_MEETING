@@ -15,11 +15,13 @@ java 学习笔记
     - Jvm 调优
     - Jvm 监控
 - 数据结构与算法
+  - 红黑树
 - 计算机网络与数据通信
 - Linux
   - python
   - bash
   - lua
+  - awk相关命令
 - 主流框架/软件
   - Spring
   - Mybatis
