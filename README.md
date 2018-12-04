@@ -9,7 +9,7 @@
   - Java 集合框架
   - Java IO(BIO/NIO/AIO)
   - Java 多线程
-  - (Java 虚拟机(Jvm))[]
+  - [Java 虚拟机(Jvm)](www.baidu.com)
     - Java 内存模型
     - Java 垃圾回收相关
     - Jvm 调优
