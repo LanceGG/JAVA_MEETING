@@ -1,6 +1,6 @@
 # JAVA_STUDY
 
-java 学习笔记
+自己学的东西还是记录下来比较好。不然学了啥都不记得了
 
 自己学习的java路线图
 
@@ -9,7 +9,7 @@ java 学习笔记
   - Java 集合框架
   - Java IO(BIO/NIO/AIO)
   - Java 多线程
-  - Java 虚拟机(Jvm)
+  - [Java 虚拟机(Jvm)](www.baidu.com)
     - Java 内存模型
     - Java 垃圾回收相关
     - Jvm 调优
