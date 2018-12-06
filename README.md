@@ -50,5 +50,5 @@
     - bash
   - 文件系统
 - 设计模式
-  - 工厂模式
+  - [工厂模式](design_pattern/factory/factory.md)
 
