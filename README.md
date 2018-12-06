@@ -24,7 +24,7 @@
   - awk相关命令
 - 主流框架/软件
   - Spring
-  - Mybatis
+  - [Mybatis](blob/master/framework/MySQL/MySQL.md)
   - Durid
   - Redis
   - Zookeeper
