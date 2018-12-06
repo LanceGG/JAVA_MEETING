@@ -1,4 +1,4 @@
-###### MyBatis的主要成员
+#### MyBatis的主要成员
 ```Bash
 Configuration          MyBatis所有的配置信息都保存在Configuration对象之中，配置文件中的大部分配置都会存储到该类中
 SqlSession             作为MyBatis工作的主要顶层API，表示和数据库交互时的会话，完成必要数据库增删改查功能
